@@ -28,3 +28,7 @@ to finally commit
     git commit -m "message to commit"
 to check all logs
     git log
+to go back
+    git checkout hash number
+to undo
+    git checkout master
