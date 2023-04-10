@@ -50,3 +50,10 @@ finally to merge all changes
 to ignore some files
     touch .gitignore
     or make .gitignore file and write the name of the file to be ignored
+to check remote
+    git remote -v
+to add remote location of github
+    git remote add origin https://github.com/abhishekkr8399/learnGit.git
+to push
+    git branch -M main
+    git push -u origin main
