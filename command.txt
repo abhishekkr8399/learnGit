@@ -20,7 +20,11 @@ to check all files(hidden also)
     ls -a
 to check any changes
     git status
-to add files
+to add files to staging area
     git add filename
-to add all files
+to add all files to staging area
     git add.
+to finally commit
+    git commit -m "message to commit"
+to check all logs
+    git log
