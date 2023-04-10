@@ -1,0 +1,26 @@
+to check version
+    git --version
+to check name
+    git config --global user.name
+to check email
+    git config --global user.email
+to change anything
+    git config --global --edit
+to come back after editing
+    esc :wq
+to make directory
+    mkdir dirname
+to change directory
+    cd dirname
+to initialize directory
+    git init
+to check all files
+    ls
+to check all files(hidden also)
+    ls -a
+to check any changes
+    git status
+to add files
+    git add filename
+to add all files
+    git add.
