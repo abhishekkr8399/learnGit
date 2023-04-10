@@ -28,7 +28,19 @@ to finally commit
     git commit -m "message to commit"
 to check all logs
     git log
-to go back
+1>to go back
     git checkout hash number
-to undo
+2>to undo
     git checkout master
+1>to go back
+    git checkout hash number
+2>to change branch
+    git branch
+3>to comeback to master branch
+    git checkout master
+to make branch
+    git branch dev
+to see branches
+    git branch
+to make and enter into new branches
+    git checkout -b abhi/version2
