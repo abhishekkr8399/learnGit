@@ -45,3 +45,5 @@ to see branches
 to make and enter into new branches
     git checkout -b abhi/version2
     //make version2 file and add and commit it
+to clone
+    git clone repo link
